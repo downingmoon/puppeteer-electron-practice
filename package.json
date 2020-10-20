@@ -1,0 +1,16 @@
+{
+  "name": "pie-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "moon_dah_woon",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^10.1.4",
+    "puppeteer-core": "^5.3.1",
+    "puppeteer-in-electron": "^3.0.3"
+  }
+}
