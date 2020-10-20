@@ -1,3 +1,9 @@
+/**
+ * 현재 smalltalk 사용 불가.
+ * electron 사용 시 webpack으로 빌드해야 하는 듯.
+ * https://github.com/coderaiser/smalltalk/issues/26
+ */
+
 // https://www.npmjs.com/package/smalltalk
 const smalltalk = require('smalltalk')
 // const smalltalk = require('smalltalk/native')
